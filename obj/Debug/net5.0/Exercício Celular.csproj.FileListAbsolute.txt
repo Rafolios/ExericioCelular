@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\SENAI\c#\Celular\bin\Debug\net5.0\Exercício Celular.exe
+C:\Users\Micro\Documents\SENAI\c#\Celular\bin\Debug\net5.0\Exercício Celular.deps.json
+C:\Users\Micro\Documents\SENAI\c#\Celular\bin\Debug\net5.0\Exercício Celular.runtimeconfig.json
+C:\Users\Micro\Documents\SENAI\c#\Celular\bin\Debug\net5.0\Exercício Celular.runtimeconfig.dev.json
+C:\Users\Micro\Documents\SENAI\c#\Celular\bin\Debug\net5.0\Exercício Celular.dll
+C:\Users\Micro\Documents\SENAI\c#\Celular\bin\Debug\net5.0\ref\Exercício Celular.dll
+C:\Users\Micro\Documents\SENAI\c#\Celular\bin\Debug\net5.0\Exercício Celular.pdb
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\Exercício Celular.csprojAssemblyReference.cache
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\Exercício Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\Exercício Celular.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\Exercício Celular.AssemblyInfo.cs
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\Exercício Celular.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\Exercício Celular.dll
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\ref\Exercício Celular.dll
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\Exercício Celular.pdb
+C:\Users\Micro\Documents\SENAI\c#\Celular\obj\Debug\net5.0\Exercício Celular.genruntimeconfig.cache
